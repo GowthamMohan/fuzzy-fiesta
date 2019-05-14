@@ -1,3 +1,4 @@
+//This code creates a sample transaction between two accounts in web3.js
 var Tx = require('ethereumjs-tx')
 const Web3 = require('web3')
 const web3 = new Web3('https://ropsten.infura.io/v3/9e6a6b58d53147378f95daf4892c7cab')
